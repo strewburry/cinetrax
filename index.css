@@ -127,9 +127,9 @@ h3 {
 }
 
 input {
-  	width: 520px;
-  	margin-top: 10px;
-  	margin-bottom: 20px;
+	width: 520px;
+	margin-top: 10px;
+	margin-bottom: 20px;
 }	
 
 input[type=text] { 
@@ -163,7 +163,7 @@ button[type=submit] {
 .poster { 
 	margin: 30px auto 0px; 
 	display: block;
- }
+}
 
 .js-results { 
 	text-align: center;
@@ -188,54 +188,54 @@ button[type=submit] {
 	width: 100%;
 	padding: 10px;
 	font-size: 12px;
- }
+}
 
- .credits p { 
- 	text-align: center;
- 	display: inline;
- 	padding-left: 10px;
- }
+.credits p { 
+text-align: center;
+display: inline;
+padding-left: 10px;
+}
 
- #TMDblogo { 
- 	width: 20px;
- 	height: 20px;
-	display: inline; 
+#TMDblogo { 
+width: 20px;
+height: 20px;
+display: inline; 
 }
 
 @media only screen and (max-width: 640px) { 
- 
- body { 
-   background-image: none; 
-  } 
 
- main { 
-   width: 80%; 
-  }
+	body { 
+	background-image: none; 
+	} 
 
-  .js-results h2 { 
-  	max-width: 100%;
-  }
+	main { 
+	width: 80%; 
+	}
 
-  .poster { 
-  	margin: 20px auto 0px; 
-  	max-width: 100%;
-  }
+	.js-results h2 { 
+	max-width: 100%;
+	}
 
- .results {
-  	width: auto;
-  	margin: auto;
-  }
+	.poster { 
+	margin: 20px auto 0px; 
+	max-width: 100%;
+	}
 
- .js-results { 
- 	width: auto; 
- 	margin: auto;
-  }
+	.results {
+	width: auto;
+	margin: auto;
+	}
 
-  input {
-    width: 50%;
-  }
+	.js-results { 
+	width: auto; 
+	margin: auto;
+	}
 
-  .navbar { 
-  	width: 100%; 
-  }
+	input {
+	width: 50%;
+	}
+
+	.navbar { 
+	width: 100%; 
+	}
 }
